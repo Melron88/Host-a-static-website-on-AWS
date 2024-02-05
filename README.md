@@ -1,5 +1,4 @@
-![Alt text](/Host_a_Static_Website_on_AWS (1).png)
-
+![Alt text](/Host_a_Static_Website_on_AWS.png)
 # Hosting a Static Website on AWS
 
 This project involves hosting a static HTML web application on Amazon Web Services (AWS) utilizing various resources and configurations to ensure reliability, security, and scalability.
